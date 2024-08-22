@@ -1,32 +1,31 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd&quot;" creator="Bandsintown LLC">
-  <metadata>
-    <name>&lt;![CDATA[Enrique Iglesias's Tour]]&gt;</name>
-    <desc>&lt;![CDATA[GPS route for the upcoming tour dates of Enrique Iglesias]]&gt;</desc>
-    <author>
-      <name>Bandsintown LLC</name>
-      <email id="support" domain="bandsintown.com" />
-      <link href="https://corp.bandsintown.com" />
-    </author>
-    <copyright author="Bandsintown LLC">
-      <year>2021</year>
-      <license>https://corp.bandsintown.com/terms</license>
-    </copyright>
-    <link href="https://bandsintown.com/a/1110" />
-    <bounds minlat="25.7814014" minlon="-121.9012363" maxlat="55.78836099999999" maxlon="39.72569" />
-  </metadata>
-  <rte>
-    <name>&lt;![CDATA[Enrique Iglesias's Tour]]&gt;</name>
-    <rtept lat="42.00525899999999" lon="-87.88783000000001">
-      <time>2021-10-01T19:00:00-05:00</time>
-      <sym>e:102196052</sym>
-      <name>Allstate Arena</name>
-      <desc>Rosemont, IL</desc>
-      <link href="https://bandsintown.com/e/102196052" />
-      <extensions>
-        <icon href="https://photos.bandsintown.com/thumb/11632120.jpeg" />
-      </extensions>
-    </rtept>
-      </rte>
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="allevents" author="Allevents">
+    <metadata>
+        <name><![CDATA[Dandiya Night With Kaviraj “ADITYA GADHVI”]]></name>
+        <desc><![CDATA[Acacia Ridge, Brisbane, Qld, Australia]]></desc>
+        <author>
+            <name>Allevents</name>
+            <email id="support" domain="allevents.in" />
+            <link href="https://allevents.in" />
+        </author>
+        <copyright author="Allevents">
+            <year>2024</year>
+            <license>https://allevents.in/terms</license>
+        </copyright>
+        <link href="https://allevents.in" />
+    </metadata>
+    <rte>
+        <name><![CDATA[Dandiya Night With Kaviraj “ADITYA GADHVI”]]></name>
+        <rtept lat="27.5829259995" lon="153.023875735">
+            <time>2024-11-21T19:00:00+10:00</time>
+            <name>Acacia Ridge</name>
+            <desc>Brisbane, Qld, Australia</desc>
+            <link href="https://allevents.in/acacia%20ridge/dandiya-night-with-kaviraj-aditya-gadhvi/200026582904055" />
+            <sym>e:200026582904055</sym>
+            <extensions>
+                <icon href="https://cdn2.allevents.in/transup/4c/3b9ae9b0eb43298aa2971395229ff9/Aditya_Gadhvi_At_An_Event_In_Ahmedabad_2020.webp" />
+                <size>4</size>
+            </extensions>
+        </rtept>
+    </rte>
 </gpx>
