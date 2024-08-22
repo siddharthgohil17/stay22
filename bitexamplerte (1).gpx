@@ -8,10 +8,10 @@
             <email id="support" domain="allevents.in" />
             <link href="https://allevents.in" />
         </author>
- <!--        <copyright author="Allevents">
+        <copyright author="Allevents">
             <year>2024</year>
             <license>https://allevents.in/terms</license>
-        </copyright> -->
+        </copyright>
         <link href="https://allevents.in" />
     </metadata>
     <rte>
