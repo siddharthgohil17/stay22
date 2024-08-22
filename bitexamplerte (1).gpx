@@ -1,51 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="allevents" author="Allevents">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="Bandsintown LLC">
     <metadata>
-        <name><![CDATA[Dandiya Night With Kaviraj “ADITYA GADHVI”]]></name>
-        <desc><![CDATA[Acacia Ridge, Brisbane, Qld, Australia]]></desc>
+        <name>
+            <![CDATA[Event Tour]]>
+        </name>
+        <desc>
+            <![CDATA[GPS route for the upcoming events]]>
+        </desc>
         <author>
-            <name>Allevents</name>
-            <email id="support" domain="allevents.in" />
-            <link href="https://allevents.in" />
+            <name>Event Creator</name>
+            <email id="support" domain="example.com" />
+            <link href="https://example.com" />
         </author>
-        <copyright author="Allevents">
+        <copyright author="Event Creator">
             <year>2024</year>
-            <license>https://allevents.in/terms</license>
+            <license>https://example.com/terms</license>
         </copyright>
-        <link href="https://allevents.in" />
+        <link href="https://example.com" />
+        <bounds minlat="25.9579679" minlon="-121.889748" maxlat="53.4646885" maxlon="153.023876" />
     </metadata>
     <rte>
-        <name><![CDATA[Dandiya Night With Kaviraj “ADITYA GADHVI”]]></name>
-        <rtept lat="27.5829259995" lon="153.023875735">
-            <time>2024-01-21T19:00:00+10:00</time>          
-            <name>Acacia Ridge</name>
-            <desc>Brisbane, Qld, Australia</desc>
-            <link href="https://allevents.in/acacia%20ridge/dandiya-night-with-kaviraj-aditya-gadhvi/200026582904055" />
-            <sym>e:200026582904055</sym>
+        <name>
+            <![CDATA[Event Tour]]>
+        </name>
+        <rtept lat="40.7505045" lon="-73.9934387">
+            <time>2024-08-22T19:00:00-04:00</time>
+            <name>
+                <![CDATA[Madison Square Garden]]>
+            </name>
+            <desc>
+                <![CDATA[New York City, NY]]>
+            </desc>
+            <link href="https://bandsintown.com/e/104896642" />
+            <sym>e:104896642</sym>
             <extensions>
-                <icon href="https://cdn2.allevents.in/transup/4c/3b9ae9b0eb43298aa2971395229ff9/Aditya_Gadhvi_At_An_Event_In_Ahmedabad_2020.webp" />
-                <size>4</size>
-            </extensions>
-        </rtept>
-<rtept lat="26.5829259995" lon="150.023875735">
-            <time>2024-11-24T19:00:00+10:00</time>          
-            <name>Acacia Ridge</name>
-            <desc>Brisbane, Qld, Australia</desc>
-            <link href="https://allevents.in/acacia%20ridge/dandiya-night-with-kaviraj-aditya-gadhvi/200026582904055" />
-            <sym>e:200026582904055</sym>
-            <extensions>
-                <icon href="https://cdn2.allevents.in/transup/4c/3b9ae9b0eb43298aa2971395229ff9/Aditya_Gadhvi_At_An_Event_In_Ahmedabad_2020.webp" />
-                <size>4</size>
-            </extensions>
-        </rtept>
-        <rtept lat="28.5829259995" lon="143.023875735">
-            <time>2024-04-21T19:00:00+10:00</time>          
-            <name>Acacia Ridge</name>
-            <desc>Brisbane, Qld, Australia</desc>
-            <link href="https://allevents.in/acacia%20ridge/dandiya-night-with-kaviraj-aditya-gadhvi/200026582904055" />
-            <sym>e:200026582904055</sym>
-            <extensions>
-                <icon href="https://cdn2.allevents.in/transup/4c/3b9ae9b0eb43298aa2971395229ff9/Aditya_Gadhvi_At_An_Event_In_Ahmedabad_2020.webp" />
+                <icon href="https://static.bandsintown.com/images/pins/days/en/2208.png" />
                 <size>4</size>
             </extensions>
         </rtept>
