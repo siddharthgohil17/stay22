@@ -1,3 +1,5 @@
+</gpx>
+
 <?xml version='1.0' encoding='utf-8'?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="allevents" author="Allevents">
     <metadata>
@@ -16,7 +18,7 @@
     </metadata>
     <rte>
         <name><![CDATA[Dandiya Night With Kaviraj “ADITYA GADHVI”]]></name>
-        <rtept lat="42.00525899999999" lon="-87.887830000000015">
+        <rtept lat="27.5829259995" lon="153.023875735">
             <time>2021-10-01T19:00:00-05:00</time>
             <name>Acacia Ridge</name>
             <desc>Brisbane, Qld, Australia</desc>
