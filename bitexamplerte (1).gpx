@@ -1,3 +1,4 @@
+
 <?xml version='1.0' encoding='utf-8'?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="allevents" author="Allevents">
     <metadata>
@@ -15,8 +16,7 @@
         <link href="https://allevents.in" />
     </metadata>
     <rte>
-        <name><![CDATA[Dandiya Night With Kaviraj "ADITYA GADHVI"]]></name>   
-        <rtept lat="27.5829259995" lon="153.023875735">
+        <name><![CDATA[Dandiya Night With Kaviraj "ADITYA GADHVI"]]></name>        <rtept lat="27.5829259995" lon="153.023875735">
             <time>2024-01-21T19:00:00+10:00</time>
             <name>Acacia Ridge</name>
             <desc>Brisbane, Qld, Australia</desc>
@@ -26,8 +26,7 @@
                 <icon href="https://cdn2.allevents.in/transup/4c/3b9ae9b0eb43298aa2971395229ff9/Aditya_Gadhvi_At_An_Event_In_Ahmedabad_2020.webp" />
                 <size>4</size>
             </extensions>
-        </rtept>        
-<rtept lat="26.5829259995" lon="150.023875735">
+        </rtept>        <rtept lat="26.5829259995" lon="150.023875735">
             <time>2024-11-24T19:00:00+10:00</time>
             <name>Acacia Ridge</name>
             <desc>Brisbane, Qld, Australia</desc>
@@ -49,5 +48,6 @@
                 <size>4</size>
             </extensions>
         </rtept>
+
     </rte>
 </gpx>
